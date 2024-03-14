@@ -1,0 +1,2 @@
+# AhuzacosProto
+Ahuzacos constructed language.
